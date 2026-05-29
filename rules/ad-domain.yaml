@@ -1,0 +1,11 @@
+# 广告拦截 DNS 规则
+# 基础过滤
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+# 社交媒体广告
+||facebook.com/tr^
+||connect.facebook.net/fbevents^
+# 国内广告平台
+||ad.youku.com^
+||iqiyi.com/ads^
